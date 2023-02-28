@@ -411,7 +411,7 @@ img {vertical-align: middle;}
 
 .drop {
   position: absolute;
-  background-image: linear-gradient(rgba(209, 38, 172, 0.5), rgba(18, 165, 28, 0.5));
+  background-image: linear-gradient(rgba(12, 71, 149, 0.5), rgba(101, 205, 210, 0.5));
   width: 5px;
   height: 100px;
   animation: fall 5s linear infinite;
